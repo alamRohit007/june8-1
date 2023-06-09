@@ -11,5 +11,5 @@ def add(a,b):
 
 
 n1=int(input('Enter first number:'))
-n2=int(input('Enter second number:'))
+n2=int(input('Enter second number again:'))
 
